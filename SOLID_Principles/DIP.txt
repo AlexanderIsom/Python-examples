@@ -1,0 +1,7 @@
+Dependency inversion principle
+
+abstractions should not depened on details
+details should depend on abstraction
+
+high and low level modules should depend on abstractions
+

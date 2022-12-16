@@ -1,0 +1,2 @@
+functins that use pointers or refernces to base classes must be able to use objects
+of derived classes without knowing it
